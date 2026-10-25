@@ -1,0 +1,5 @@
+# SoftwareTestAutomationQA
+
+I can ensure my code is functional and secure by testing it throughout development instead of waiting until everything is finished. Throughout this course, I've used JUnit to test valid and invalid inputs, check boundary conditions, and make sure my code handles errors correctly. I've also learned that passing tests doesn't necessarily mean everything works correctly, which is why checking code coverage and testing different scenarios is important. Security is also part of this process, especially when validating user inputs and making sure the program rejects invalid data.
+
+Understanding user needs starts with having clear requirements. If I don't fully understand what the user wants, I could end up building something that doesn't meet their expectations. When designing software, I try to break those requirements into smaller pieces and figure out how everything should work together before coding. I've also learned to keep classes focused on their own responsibilities, like having my Contact, Task, and Appointment classes handle validation instead of their service classes. This makes the code easier to test, maintain, and update.
